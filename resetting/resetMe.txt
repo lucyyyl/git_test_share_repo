@@ -1,4 +1,3 @@
 Hello I am the file which has the changes you are resetting 
 
-If you are reading me then you have gone too far!!!!! 
-ABORT MISSION 
+If you are reading this then: CONGRATS you reset me to the correct commit, well done! 
